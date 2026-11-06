@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://marthiedemo.fwh.is"),
   title: "Goma Héberge | Gestion et location de logements à Goma",
   description: "Trouvez des appartements meublés, maisons et studios sécurisés pour vos séjours à Goma, RDC.",
-  verification: {google: <meta name="google-site-verification" content="h1_XgJ41-1uTjD48C-d2pzTUhIYpOzRqxq2s2UYj8cE" />},
+  verification: {google: "h1_XgJ41-1uTjD48C-d2pzTUhIYpOzRqxq2s2UYj8cE",},
   alternates: {
     canonical: "/",
   },
